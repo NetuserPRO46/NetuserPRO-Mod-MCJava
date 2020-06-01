@@ -1,0 +1,42 @@
+{
+  "group": "netuserpro_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:bread"
+    },
+    "1": {
+      "item": "minecraft:bread"
+    },
+    "2": {
+      "item": "minecraft:bread"
+    },
+    "3": {
+      "item": "minecraft:bread"
+    },
+    "4": {
+      "item": "minecraft:bread"
+    },
+    "5": {
+      "item": "minecraft:bread"
+    },
+    "6": {
+      "item": "minecraft:porkchop"
+    },
+    "7": {
+      "item": "minecraft:porkchop"
+    },
+    "8": {
+      "item": "minecraft:porkchop"
+    }
+  },
+  "result": {
+    "item": "netuserpro_mod:pizza",
+    "count": 1
+  }
+}

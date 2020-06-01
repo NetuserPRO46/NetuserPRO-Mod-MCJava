@@ -1,0 +1,42 @@
+{
+  "group": "netuserpro_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "netuserpro_mod:money"
+    },
+    "1": {
+      "item": "netuserpro_mod:money"
+    },
+    "2": {
+      "item": "netuserpro_mod:money"
+    },
+    "3": {
+      "item": "netuserpro_mod:money"
+    },
+    "4": {
+      "item": "netuserpro_mod:money"
+    },
+    "5": {
+      "item": "netuserpro_mod:money"
+    },
+    "6": {
+      "item": "netuserpro_mod:money"
+    },
+    "7": {
+      "item": "netuserpro_mod:money"
+    },
+    "8": {
+      "item": "netuserpro_mod:money"
+    }
+  },
+  "result": {
+    "item": "netuserpro_mod:money_block",
+    "count": 1
+  }
+}

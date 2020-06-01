@@ -1,0 +1,180 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Pizza",
+      "type": "food",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pizza"
+    },
+    {
+      "name": "PizzaCraft",
+      "type": "recipe",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pizza_craft"
+    },
+    {
+      "name": "HotPizza",
+      "type": "food",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hot_pizza"
+    },
+    {
+      "name": "HotPizzaCraft",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hot_pizza_craft"
+    },
+    {
+      "name": "HotPizzaCraft2",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hot_pizza_craft_2"
+    },
+    {
+      "name": "HotPizzaCraft3",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hot_pizza_craft_3"
+    },
+    {
+      "name": "Money",
+      "type": "item",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "money"
+    },
+    {
+      "name": "Coin",
+      "type": "item",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "coin"
+    },
+    {
+      "name": "MoneyBlock",
+      "type": "block",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "money_block"
+    },
+    {
+      "name": "MoneyBlockCraft",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "money_block_craft"
+    },
+    {
+      "name": "MoneyBlockUnCraft",
+      "type": "recipe",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "money_block_un_craft"
+    },
+    {
+      "name": "MoneyCraft",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "money_craft"
+    },
+    {
+      "name": "MoneyUnCraft",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "money_un_craft"
+    },
+    {
+      "name": "MoneyCraft2",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "money_craft_2"
+    },
+    {
+      "name": "CoinCraft",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "coin_craft"
+    },
+    {
+      "name": "NetuserPROMod",
+      "type": "tab",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "netuser_pro_mod"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.netuserpro_mod.hot_pizza": "Hot Pizza",
+      "item.netuserpro_mod.pizza": "Pizza",
+      "item.netuserpro_mod.money": "Money",
+      "block.netuserpro_mod.money_block": "Money Block",
+      "itemGroup.tabnetuser_pro_mod": "NetuserPRO Mod",
+      "item.netuserpro_mod.coin": "Coin"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "netuserpro_mod",
+    "modName": "NetuserPRO Mod",
+    "version": "1.0.3",
+    "description": "A NetuserPRO Add-on YT:http://netuserpro.epizy.com/yt",
+    "author": "NetuserPRO",
+    "websiteURL": "http://netuserpro.epizy.com",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "credits": "NetuserPRO",
+    "modElementsPackage": "com.netuserpro.netuserpromod",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000322116
+}

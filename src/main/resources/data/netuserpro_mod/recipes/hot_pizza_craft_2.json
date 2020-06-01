@@ -1,0 +1,12 @@
+{
+  "group": "netuserpro_mod",
+  "type": "minecraft:campfire_cooking",
+  "experience": 1,
+  "cookingtime": 100,
+  "ingredient": {
+    "item": "netuserpro_mod:pizza"
+  },
+  "result": {
+    "item": "netuserpro_mod:hot_pizza"
+  }
+}

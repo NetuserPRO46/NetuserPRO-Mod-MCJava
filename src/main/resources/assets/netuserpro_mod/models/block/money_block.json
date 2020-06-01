@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "netuserpro_mod:blocks/money",
+    "up": "netuserpro_mod:blocks/money",
+    "north": "netuserpro_mod:blocks/money",
+    "east": "netuserpro_mod:blocks/money",
+    "south": "netuserpro_mod:blocks/money",
+    "west": "netuserpro_mod:blocks/money",
+    "particle": "netuserpro_mod:blocks/money"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "group": "netuserpro_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "netuserpro_mod:money_block"
+    }
+  },
+  "result": {
+    "item": "netuserpro_mod:money",
+    "count": 9
+  }
+}

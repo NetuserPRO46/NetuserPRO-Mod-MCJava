@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "netuserpro_mod:block/money_block"
+    }
+  }
+}
