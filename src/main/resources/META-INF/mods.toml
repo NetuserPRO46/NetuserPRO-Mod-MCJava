@@ -3,10 +3,11 @@ loaderVersion="[31,)"
 
 [[mods]]
 modId="netuserpro_mod"
-version="1.0.3"
+version="1.0.4"
 displayName="NetuserPRO Mod"
 credits="NetuserPRO"
 displayURL="http://netuserpro.epizy.com"
+logoFile="logo.png"
 authors="NetuserPRO"
 description='''
 A NetuserPRO Add-on YT:http://netuserpro.epizy.com/yt
