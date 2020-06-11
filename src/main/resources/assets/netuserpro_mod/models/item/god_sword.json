@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "netuserpro_mod:items/god_sword"
+  }
+}

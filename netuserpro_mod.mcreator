@@ -144,6 +144,24 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "netuser_pro_mod"
+    },
+    {
+      "name": "GodSword",
+      "type": "tool",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "god_sword"
+    },
+    {
+      "name": "GodSwordCraft",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "god_sword_craft"
     }
   ],
   "variable_elements": [],
@@ -155,7 +173,8 @@
       "item.netuserpro_mod.money": "Деньги",
       "block.netuserpro_mod.money_block": "Блок Денег",
       "itemGroup.tabnetuser_pro_mod": "Мод NetuserPRO",
-      "item.netuserpro_mod.coin": "Монета"
+      "item.netuserpro_mod.coin": "Монета",
+      "item.netuserpro_mod.god_sword": "Меч Бога"
     },
     "en_us": {
       "item.netuserpro_mod.hot_pizza": "Hot Pizza",
@@ -163,13 +182,14 @@
       "item.netuserpro_mod.money": "Money",
       "block.netuserpro_mod.money_block": "Money Block",
       "itemGroup.tabnetuser_pro_mod": "NetuserPRO Mod",
-      "item.netuserpro_mod.coin": "Coin"
+      "item.netuserpro_mod.coin": "Coin",
+      "item.netuserpro_mod.god_sword": "God Sword"
     }
   },
   "workspaceSettings": {
     "modid": "netuserpro_mod",
     "modName": "NetuserPRO Mod",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "description": "A NetuserPRO Add-on YT:http://netuserpro.epizy.com/yt",
     "author": "NetuserPRO",
     "websiteURL": "http://netuserpro.epizy.com",
